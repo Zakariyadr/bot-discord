@@ -178,4 +178,4 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
-client.login('MTQ5ODgwMzAxMDU5ODQ2OTYzMg.G-YDoX.pDplSCuHrBgRWIP_R-YxPMEi0fEdXEwzJWb4gc');
+client.login('token');
